@@ -9,3 +9,146 @@ http://iptv.am000.tv:8000/live/add17/add17/566.ts
 https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
 #EXTINF:-1,beinsports 2
 http://www.pandar.xyz:88/get.php?username=pqPt8ZQvHVnq&password=E8RpsmzntqKrAXn&type=m3u
+#EXTINF:-1 tvg-id="1" tvg-name="1080-Bein Sports 1",1080-Bein Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7002/sport/ch1/ch1_1080.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-name="1080-Bein Sports 2",1080-Bein Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7003/sport/ch2/ch2_1080.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-name="1080-Bein Sports 3",1080-Bein Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7004/sport/ch3/ch3_1080.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-name="1080-Bein Sports 4",1080-Bein Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7005/sport/ch4/ch4_1080.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-name="1080-Bein Sports 5",1080-Bein Sports 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7006/sport/ch5/ch5_1080.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-name="1080-Bein Sports 6",1080-Bein Sports 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7007/sport/ch6/ch6_1080.m3u8
+
+#EXTINF:-1 tvg-id="7" tvg-name="1080-Bein Sports 7",1080-Bein Sports 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7008/sport/ch7/ch7_1080.m3u8
+
+#EXTINF:-1 tvg-id="8" tvg-name="1080-Bein Sports 8",1080-Bein Sports 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7009/sport/ch8/ch8_1080.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="1080-Bein Sports 9",1080-Bein Sports 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7010/sport/ch9/ch9_1080.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="720-Bein Sports 1",720-Bein Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7002/sport/ch1/ch1_720.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-name="720-Bein Sports 2",720-Bein Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7003/sport/ch2/ch2_720.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-name="720-Bein Sports 3",720-Bein Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7004/sport/ch3/ch3_720.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-name="720-Bein Sports 4",720-Bein Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7005/sport/ch4/ch4_720.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-name="720-Bein Sports 5",720-Bein Sports 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7006/sport/ch5/ch5_720.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-name="720-Bein Sports 6",720-Bein Sports 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7007/sport/ch6/ch6_720.m3u8
+
+#EXTINF:-1 tvg-id="7" tvg-name="720-Bein Sports 7",720-Bein Sports 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7008/sport/ch7/ch7_720.m3u8
+
+#EXTINF:-1 tvg-id="8" tvg-name="720-Bein Sports 8",720-Bein Sports 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7009/sport/ch8/ch8_720.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="720-Bein Sports 9",720-Bein Sports 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7010/sport/ch9/ch9_720.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="360-Bein Sports 1",360-Bein Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7002/sport/ch1/ch1_360.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-name="360-Bein Sports 2",360-Bein Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7003/sport/ch2/ch2_360.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-name="360-Bein Sports 3",360-Bein Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7004/sport/ch3/ch3_360.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-name="360-Bein Sports 4",360-Bein Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7005/sport/ch4/ch4_360.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-name="360-Bein Sports 5",360-Bein Sports 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7006/sport/ch5/ch5_360.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-name="360-Bein Sports 6",360-Bein Sports 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7007/sport/ch6/ch6_360.m3u8
+
+#EXTINF:-1 tvg-id="7" tvg-name="360-Bein Sports 7",360-Bein Sports 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7008/sport/ch7/ch7_360.m3u8
+
+#EXTINF:-1 tvg-id="8" tvg-name="360-Bein Sports 8",360-Bein Sports 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7009/sport/ch8/ch8_360.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="360-Bein Sports 9",360-Bein Sports 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7010/sport/ch9/ch9_360.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="240-Bein Sports 1",240-Bein Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7002/sport/ch1/ch1_240.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-name="240-Bein Sports 2",240-Bein Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7003/sport/ch2/ch2_240.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-name="240-Bein Sports 3",240-Bein Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7004/sport/ch3/ch3_240.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-name="240-Bein Sports 4",240-Bein Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7005/sport/ch4/ch4_240.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-name="240-Bein Sports 5",240-Bein Sports 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7006/sport/ch5/ch5_240.m3u8
+
+#EXTINF:-1 tvg-id="6" tvg-name="240-Bein Sports 6",240-Bein Sports 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7007/sport/ch6/ch6_240.m3u8
+
+#EXTINF:-1 tvg-id="7" tvg-name="240-Bein Sports 7",240-Bein Sports 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7008/sport/ch7/ch7_240.m3u8
+
+#EXTINF:-1 tvg-id="8" tvg-name="240-Bein Sports 8",240-Bein Sports 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7009/sport/ch8/ch8_240.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="240-Bein Sports 9",240-Bein Sports 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36
+http://stream.mytvplus.net:7010/sport/ch9/ch9_240.m3u8
